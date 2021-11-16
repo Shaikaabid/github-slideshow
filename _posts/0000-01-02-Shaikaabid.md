@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcomeaabid"
 ---
-Your text
-Use the left arrow to go back!
+Your data
+press left key to go back
